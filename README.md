@@ -16,4 +16,4 @@ This repository serves as a showcase for the completed project. While the source
 
 ---
 
-*Built with ❤️ by [Ahsan Ahmad](https://github.com/ah74n)*
+*Built with ❤️ by [Ahsan](https://github.com/ah74n)*
