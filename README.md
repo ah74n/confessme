@@ -6,7 +6,7 @@ This repository serves as a showcase for the completed project. While the source
 
 ## 🚀 Live 
 
-👉 **[Experience ConfessMe Live Here](https://confessme.online)** 
+👉 **https://confessme.online) 
 
 ## ✨ Key Features
 
